@@ -1,0 +1,24 @@
+{
+  "name": "neural-networks",
+  "version": "1.0.0",
+  "description": "DL and ML codes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GokselKUCUKSAHIN/neural-networks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GokselKUCUKSAHIN/neural-networks/issues"
+  },
+  "homepage": "https://github.com/GokselKUCUKSAHIN/neural-networks#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.23",
+    "ts-node": "^10.7.0"
+  }
+}
